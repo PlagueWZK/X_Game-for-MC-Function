@@ -1,6 +1,7 @@
 {
     "replace":false,
     "values":[
-        "x_game:weapon/ak47/load"
+        "x_game:weapon/ak47/load",
+        "x_game:tips/load"
     ]
 }

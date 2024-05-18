@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        
+        "x_game:weapon/ak47/tick"
     ]
 }
